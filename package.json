@@ -1,0 +1,27 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "core-js": "2",
+    "next": "^9.0.5",
+    "next-compose-plugins": "^2.2.0",
+    "next-transpile-modules": "^2.3.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-native": "^0.60.5",
+    "react-native-web": "^0.11.7",
+    "styled-components": "5.0.0-beta.8"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-react-native-web": "^0.11.7",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
