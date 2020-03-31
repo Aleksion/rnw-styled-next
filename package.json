@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "core-js": "2",
-    "next": "^9.0.5",
+    "next": "^9.3.2",
     "next-compose-plugins": "^2.2.0",
     "next-transpile-modules": "^2.3.1",
     "react": "^16.9.0",
